@@ -5,5 +5,5 @@ function addUser() {
     localStorage.setItem("player1_name", player1_name);
     localStorage.setItem("player2_name", player2_name);
   
-    window.location = "https://github-io-bhar.github.io/Quiz-Page/";
+    window.location = "https://github-io-bhar.github.io/Quiz-Page/game_page.html";
   }
